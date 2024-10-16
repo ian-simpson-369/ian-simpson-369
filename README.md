@@ -1,6 +1,6 @@
 - B"H BS"D
 - 👋 Hi, I’m Ian Simpson
-- 👀 I’m interested in incorporating software in making the world a better place. Also systems and internet of things appeal to me, coming from a technician background
+- 👀 I’m interested in incorporating software in making the world a better place. Also systems and low-level programming appeal to me, coming from an automotive background
 - 🌱 I’m currently learning in place operations
 - 📫 How to reach me: ian.simpson369@gmail.com
 - 📚 Languages: C++, typescript
